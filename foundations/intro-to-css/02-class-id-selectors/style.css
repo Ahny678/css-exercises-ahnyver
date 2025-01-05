@@ -1,0 +1,22 @@
+.odd{
+    background-color: pink;
+    color: black;
+    font-family: 'Verdana', "DejaVU Sans", 'sans-serif';
+    
+} 
+
+.bigger{
+    font-size: 24px;
+
+}
+
+#fID{
+    color: blue;
+    font-size: 34px;
+}
+
+#sID{
+    background-color: lightgreen;
+    font-weight: bold;
+
+}
